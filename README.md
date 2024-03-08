@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Tejas
 - 👀 I’m interested in applied optimization, control theory, and non-linear system modeling. 
-- 🌱 I’m currently learning about physics-informed machine learning topics such as SINDy autoencoders, boundary value problems, and deep learning.  
+- 🌱 I’m currently learning about physics-informed machine learning techniques, SINDy autoencoders, boundary value problems, and deep learning.  
   
 
 <!---
