@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Tejas! 👋
+👋 Hi there, I'm Tejas! 👋
 
 👀 I’m interested in the intersection of data-driven methods, machine learning, and applied optimization. I believe that the practical applications of these topics are best delivered through value-addition channels or human interaction. How can we extract meaningful insights from data? While curating the correct prediction mechanisms or engineering the appropriate feature extraction mechanisms, how the intelligence is utilized is equally as crucial. Therefore, most of my projects are supported with interactive channels for end-users, such as interactive dashboards or embedded pipelines.
 
