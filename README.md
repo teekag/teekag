@@ -1,6 +1,6 @@
 👋 Hi there, I'm Tejas! 👋
 
-👀 I’m interested in the intersection of data-driven methods, machine learning, and applied optimization. How can we extract meaningful insights from data? How is "meaning" interpreted by end-users? While curating the correct prediction mechanisms or engineering the appropriate feature extraction mechanisms, how the intelligence is utilized is equally as crucial. Therefore, most of my projects are supported with interactive channels for end-users such as interactive dashboards, data-visualization packages (such as hvPlot) or embedded data-flows.
+👀 I’m interested in the intersection of data-driven methods, machine learning, and applied optimization. How can we extract meaningful insights from data? How is "meaning" interpreted by end-users? While curating the correct prediction mechanisms or engineering the appropriate feature extraction mechanisms, how insights are utilized is equally as crucial. Therefore, most of my projects are supported with interactive channels for end-users such as interactive dashboards, data-visualization packages (such as hvPlot) or embedded data-flows. 
 
 # Questions I Ask for Every Project
 When embarking on a new project, I always consider the following questions:
