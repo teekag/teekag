@@ -20,6 +20,9 @@ I'm deeply immersed in integrating machine learning, engineering mathematics, an
 **Data-Driven Discovery**
 I'm fascinated by the transformative potential of data-driven discovery. My current endeavors involve exploring cutting-edge methods and techniques that enable the modeling, prediction, and control of complex systems. From finance to robotics, I'm passionate about uncovering insights that drive meaningful impact and empower decision-makers with actionable intelligence.
 
+**Differential Programming**
+A novel type of software by assembling networks of functional blocks that are adjustable and trainable. These "functional blocks" achieve this by training these networks with examples using optimization methods based on gradients. This approach resembles traditional programming, with the key differences being that it involves parameterized blocks, automatic differentiation, and optimization capabilities.
+
 Feel free to reach out if you share my enthusiasm for these topics or if you'd like to collaborate on a project! Let's embark on a journey of exploration and innovation together. 
 - 🌱 
   
