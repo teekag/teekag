@@ -3,7 +3,7 @@
 I develop systems that lie at the intersection of data-driven methods, machine learning, and optimization techniques to uncover actionable insights from complex datasets. My goal is to empower end-users to make informed decisions by effectively communicating data-driven insights. 
 
 # Addressable Technical Details 
-When embarking on a new project, I always consider the following questions:
+When embarking on a new project, I aim to consider the following questions:
 
 - What are the key objectives and outcomes we aim to achieve?
 - How can we leverage data-driven methods to drive actionable insights?
