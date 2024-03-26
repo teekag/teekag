@@ -20,11 +20,11 @@ Some user-experiences require transactional insight generations, for example a "
 
 ## Current Areas of Exploration - An Overview 
 
-- **Systems Modeling & Observability of Complex Systems**
+**Systems Modeling & Observability of Complex Systems**
 
 There's immense value in intergrating machine learning, engineering mathematics, and mathematical physics to model, predict control dynamic systems for end-users to act faster, with broader span of contextual insights, saving extrodinary manual efforts. In addition to maintaining clean, computationally-effective data pipelines, I seek to bring data-driven methodologies to enhance predictive accuracy and understanding of complex system behaviors as systems interact with new environemnts & conditions. More specfically, I hope to bring any signal processing system (e.g. Software to Hardware, Computer to Sensor, Software to User) to a level that can interpret dynamic behaviors beyond of low-dimensional pattern recognition, while enabling effective simplification of signals through extraction of patterns, features, parameters, or raw data dervived from non-linear environemnts. Decision making experiences, with collaboration with data-driven transformations, enable users to systemically interpret & interact with data beyond conventional mediums, classification, with highly-succesful parameter inclusion, feature extraction, data/coordinate transformation, memory compression, or retrieval-augmented generation process. 
 
-- **Data-Driven Discovery**
+**Data-Driven Discovery**
   
 Exploring cutting-edge methods and techniques for modeling, prediction, and control of complex systems is becoming more important by the day with data-rich enviornments. The ability to simplfy models with transformations pre-trained with extensive contextual knowledge. Creating deep-knowledge spaces, memory compression kits, and guided discovery processes through math & physics offers increased accuracy in outputs guiding end-users. Data-driven discovery processes such as reduced order models, enable clean interoplation of outputs between employees and raw data, divserse integrated software types, and large-scale connective solutions with an abudance of data collection in frequecy, type, and storage channels. Here are some key elements of an effective data-driven discovery process: 
 
@@ -32,7 +32,7 @@ Exploring cutting-edge methods and techniques for modeling, prediction, and cont
 - Deep-Knowledge Spaces and Memory Compression: By creating deep-knowledge spaces, employing memory compression techniques, and guiding discovery processes through mathematical and physical principles, the accuracy of outputs for end-users is significantly enhanced. 
 - Reduced Order Models (ROMs) for Interpolation: Utilizing reduced order models facilitates seamless interpolation of outputs between employees and raw data, enabling effective communication and understanding across diverse integrated software systems.
 
-- **Differential Programming**: I've been implementing this novel software technique for developing highly adaptive and optimized systems.
+**Differential Programming** 
 
 Differentiable Programming (DP) is a cutting-edge technique that enables the automatic computation of derivatives of model outputs with respect to model parameters. This approach allows for end-to-end differentiation of complex computer programs, including those with control flows and data structures, facilitating gradient-based optimization of program parameters. DP enhances the performance and efficiency of software systems by enabling gradient-based optimization of program parameters. Automatic differentiability is an essential ingredient in the construction of such hybrid models, where generalizes models are parsed combined with intelligence-components that exist externally to a back-end repository. DP techniques create the opportunity to implement adaptive control techniques to handle nonlinear dynamics, where direct relationships are not easy to forecast and model. Due to the complexity and intricate interactions within large-scale systems, using nonlinear dynamics to capture behaviors accurately is crucial! Granting observability over the structure, analysis frameworks, parameter selection, or repository structures can offer organizations an efficient data governance strategy.
 
