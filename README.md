@@ -28,7 +28,7 @@ There's immense value in intergrating machine learning, engineering mathematics,
 
 **Data-Driven Discovery**
 
-In data-rich environments, exploring advanced methods for modeling, prediction, and control of complex systems is increasingly crucial. Leveraging cutting-edge techniques to simplify models through pre-trained transformations with extensive contextual knowledge is key to achieving accurate outputs that guide end-users effectively. Data-driven discovery processes such as reduced order models, enable clean interoplation of outputs between employees and raw data, divserse integrated software types, and large-scale connective solutions with an abudance of data collection in frequecy, type, and storage channels. 
+In data-rich environments, exploring advanced methods for modeling, prediction, and control of complex systems is increasingly crucial. Leveraging cutting-edge techniques to simplify models through pre-trained transformations with extensive contextual knowledge is key to achieving accurate outputs that guide end-users effectively. Data-driven discovery processes such as reduced order models, enable clean interoplation of outputs between employees and raw data and large-scale siloed solutions with an abudance in frequecy, type, and storage channels for data collection 
 
 Here are some key elements of an effective data-driven discovery process that I am focusing on: 
 
