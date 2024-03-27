@@ -1,6 +1,6 @@
-👋 Hi there, I'm Tejas! 👋
 
-I'm interested in developing systems that lie at the intersection of data-driven methods, machine learning, and optimization techniques to uncover actionable insights from complex datasets. My goal is to empower end-users to make informed decisions by effectively communicating data-driven insights.  
+
+I'm interested in developing systems that lie at the intersection of data-driven methods, machine learning, and optimization techniques to uncover actionable insights from complex datasets. My goal is to empower end-users to make informed decisions by effectively communicating data-driven insights to drive decision-making. 
 
 
 # Addressable Technical Details 
