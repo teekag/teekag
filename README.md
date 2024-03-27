@@ -19,7 +19,7 @@ When embarking on a new project, I aim to consider the following questions:
 
 By prioritizing data-centric modeling and user-centric design principles, my objective is to empower users with potent insights that catalyze informed decision-making. This entails crafting intuitive user interfaces, refining data processing pipelines, and iteratively enhancing algorithms to optimize the overall user experience.
 
-## Current Areas of Exploration - Data-Driven Optimization Techniques  
+## Current Interest: Data-Driven Optimization Techniques  
 
 **Systems Modeling & Observability of Complex Systems**
 
@@ -37,7 +37,7 @@ Here are some key elements of an effective data-driven discovery process that I 
 
 **Differential Programming** 
 
-Differentiable Programming (DP) is a technique that enables the automatic computation of derivatives of model outputs with respect to model parameters. This approach allows for end-to-end differentiation of complex computer programs, including those with control flows and data structures, facilitating gradient-based optimization of program parameters. Automatic differentiability is an essential ingredient in the construction of such hybrid models, where generalizes models are parsed with elements that exist externally to a back-end repository. Parameter blocks are utilized to add structural parameters to a model, enabling the incorporation of additional parameters and defining relationships between different components of the model. DP techniques create the unqiue opportunity to implement adaptive control techniques to handle nonlinear dynamics, where direct relationships are not easy to forecast and model. Due to the complexity, cost, and intricacies of behaviours within large-scale systems, using nonlinear dynamics to capture behaviors accurately is crucial! Granting observability over the structure, analysis frameworks, parameter selection, or repository structures can offer organizations an efficient data governance strategy. 
+Differentiable Programming (DP) is a technique that enables the automatic computation of derivatives of model outputs with respect to model parameters. In other words, As Pathmind describes them, they are "programs that rewrite themselves at least one component by optimizing along a gradient, like neural networks."  This approach allows for the potential to build end-to-end differentiation of complex computer programs, including those with control flows and data structures, facilitating gradient-based optimization of program parameters. Automatic differentiability is an essential ingredient in the construction of such hybrid models, where generalizes models are parsed with elements that exist externally to a back-end repository. Parameter blocks are utilized to add structural parameters to a model, enabling the incorporation of additional parameters and defining relationships between different components of the model. DP techniques create the unqiue opportunity to implement adaptive control techniques to handle nonlinear dynamics, where direct relationships are not easy to forecast and model. Due to the complexity, cost, and intricacies of behaviours within large-scale systems, using nonlinear dynamics to capture behaviors accurately is crucial! Granting observability over the structure, analysis frameworks, parameter selection, or repository structures can offer organizations an efficient data governance strategy. 
 
 **Augmented Memory** 
 
