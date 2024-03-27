@@ -14,7 +14,8 @@ When embarking on a new project, I aim to consider the following questions:
 - How can we integrate a source of "truth" into prediction mechanisms, such as physics-informed ML, constraints, and mathematical symmetries?
 - How can we improve continuous optimization with programmatic differentiation, where parameterized blocks, automatic differentiation, optimization capabilities adapt to new, real-time conditions?
 - How can end-users, customers, viewers, and anyone deriving value communicate & interact best with the data & insights needed to make a decision?
-- If client-server archectectures are "stateless," with no memory storage, what does a better request-response model look like augmented memory storage archectures that can help make real-time conditions easier to dechipher? Does a new request-response improve outcomes & decision making of exisitng model performance? What's the "multi-player" mode of software tools that can aid individual decision making?  
+- If client-server archectectures are "stateless," with no memory storage, what does a better request-response model look like augmented memory storage archectures that can help make real-time conditions easier to dechipher? Does a new request-response improve outcomes & decision making of exisitng model performance?
+- What's the "multi-player" mode of an exisiting software tech-stack that can maximizes individual decision making outcomes?  
 
 
 By prioritizing data-centric modeling and user-centric design principles, my objective is to empower users with potent insights that catalyze informed decision-making. This entails crafting intuitive user interfaces, refining data processing pipelines, and iteratively enhancing algorithms to optimize the overall user experience.
