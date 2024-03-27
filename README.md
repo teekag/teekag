@@ -13,7 +13,7 @@ When embarking on a new project, I aim to consider the following questions:
 - How can we leverage generative AI, LLMs, and foundational models to bring human-interaction to the next level? 
 - How can we integrate a source of "truth" into prediction mechanisms, such as physics-informed ML, constraints, and mathematical symmetries?
 - How can we improve continuous optimization with programmatic differentiation, where parameterized blocks, automatic differentiation, optimization capabilities adapt to new, real-time conditions?
-- How can end-users, customers, viewers, and anyone deriving value communicate & interact best with the AI?
+- How can end-users, customers, viewers, and anyone deriving value communicate & interact best with the data & insights needed to make a decision?
 - If client-server archectectures are "stateless," with no memory storage, what does a better request-response model look like augmented memory storage archectures that can help make real-time conditions easier to dechipher? Does a new request-response improve outcomes & decision making of exisitng model performance? What's the "multi-player" mode of software tools that can aid individual decision making?  
 
 
