@@ -1,7 +1,6 @@
 
 
-I'm interested in developing systems that lie at the intersection of data-driven methods, machine learning, and optimization techniques to uncover actionable insights from complex datasets. My goal is to empower end-users to make informed decisions by effectively communicating data-driven insights.
-
+I'm interested in developing systems that lie at the intersection of data-driven methods, machine learning, and optimization techniques to uncover actionable insights from complex datasets. My goal is to empower end-users to make informed decisions by effectively communicating data-driven insights with transparency. 
 
 # Addressable Technical Details 
 When embarking on a new project, I aim to consider the following questions:
@@ -15,7 +14,7 @@ When embarking on a new project, I aim to consider the following questions:
 - How can we improve continuous optimization with programmatic differentiation, where parameterized blocks, automatic differentiation, optimization capabilities adapt to new, real-time conditions?
 - How can end-users, customers, viewers, and anyone deriving value communicate & interact best with the data & insights needed to make a decision?
 - If client-server archectectures are "stateless," with no memory storage, what does a better request-response model look like augmented memory storage archectures that can help make real-time conditions easier to dechipher? Does a new request-response improve outcomes & decision making of exisitng model performance?
-- What's the "multi-player" mode of an exisiting software tech-stack that can maximizes individual decision making outcomes?  
+- What's the "multi-player" mode of an exisiting software tech-stack that can maximizes individual decision making outcomes? 
 
 
 By prioritizing data-centric modeling and user-centric design principles, my objective is to empower users with potent insights that catalyze informed decision-making. This entails crafting intuitive user interfaces, refining data processing pipelines, and iteratively enhancing algorithms to optimize the overall user experience.
