@@ -13,7 +13,7 @@ When embarking on a new project, I aim to consider the following questions:
 - How can we integrate intelligent constants into prediction mechanisms such as PDEs, physics-based constraints, and mathematical symmetries?
 - How can we improve continuous optimization with programmatic differentiation, where parameterized blocks, automatic differentiation, optimization capabilities adapt to new, real-time conditions?
 - How can end-users, customers, viewers, and anyone deriving value communicate & interact best with the data & insights needed to make a decision?
-- If client-server archectectures are "stateless," with no memory storage, what does a better request-response model look like augmented memory storage responses?
+- If client-server archectectures are "stateless," with no memory storage, what does a new request-response model look like? Do augmented memory storage responses aid development?
 - Can implementation of retrievel augemented processces help make real-time conditions easier to dechipher?
 - Does a new request-response improve outcomes & decision making of exisitng model performance?
 - What's the "multi-player" mode of an exisiting software tech-stack that can maximizes individual decision making outcomes? 
