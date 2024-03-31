@@ -37,7 +37,7 @@ In data-rich environments, exploring advanced methods for modeling, prediction, 
 Here are some key elements of an effective data-driven discovery process that I am focusing on: 
 
 - *Dimensional Analysis and Feature Selection:* Uncovering patterns through dimensional analysis, and selecting relevant features using probabilistic methods, such as SHAP, to streamline the modeling process. 
-- *Deep-Knowledge Spaces and Memory Compression:* By creating deep-knowledge spaces, employing memory compression techniques, guided through mathematical and physical principles, for the accuracy of outputs is significantly enhanced. 
+- *Deep-Knowledge Spaces and Memory Compression:* By creating deep-knowledge spaces, employing memory compression techniques, guided through mathematical and physical principles, accuracy of outputs is significantly enhanced. 
 - *Reduced Order Models (ROMs) for Interpolation:* Utilizing reduced order models facilitates seamless interpolation of outputs between humans and raw data, enabling effective communication and understanding of complex datasets. 
 
 **Differential Programming** 
