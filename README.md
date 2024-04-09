@@ -11,18 +11,18 @@ Without referencing a specfic data-type, there are charactersitcs that reflect t
 
 When considering its valuation, there are an abundance of methodologies to choose from as new software and hardware options could be utiziled, depending on scenarios, and impact the total required "investment." In an ideal scenario, organizations would not only measure the cost and value of their information assets but also recognize the multiplicity of factors influencing their worth. Just as buildings and machines have diverse valuation methods, information assets may require a spectrum of valuation techniques considering factors like diversity of data sources, data quality, and relevance to different stakeholders.
 
-Envision an ideal scenario where organizations can accurately access both the cost and the value of their information assets. In this scenario, these information assets would be integrated into the balance sheet alongside tangible assets such as buildings and machinery, as well as financial assets like cash and receivables. This integration would represent the pinnacle of accountability. With information assets treated unequivially as a more dominant asset, concerns regarding their efficient investment and management would diminish. They would be governed by the same financial disciplines that ensure resources are utilized effectively in a properly managed business. Information management maturity models have been used to navigate organisations with benchmarking their current strategy, targeting future performance metrics, simplifying frameworks, and measuring progress beyond an exisiting repository of tooling. 
+Envision an ideal scenario where organizations can accurately access both the cost and the value of their information assets. In this scenario, these information assets would be integrated into the balance sheet alongside tangible assets such as buildings and machinery, as well as financial assets like cash and receivables. This integration would represent the pinnacle of accountability. With information assets treated as a strategically dominant asset, concerns regarding their efficient investment and management would diminish. They would be governed by the same financial disciplines that ensure resources are utilized effectively in a properly managed business. Strategies such as information management maturity models have been used to navigate organisations with benchmarking their current strategy, targeting future performance metrics, simplifying frameworks, and measuring value beyond an exisiting service offering. 
 
 There are many approaches used to measure the value of information. Daniel Moody, from the University of Melbourne, recongizes some key principles in his "Measuring The Value of Information: An Asset Valuation Approach" that follow accounting and strategic management principles. Chris Higson and Dave Waltho scripted "Valuing Information as an Asset" and argue "the need for an asset-centric, value-based approach to the management of information, as opposed to the still common, but often unsuccessful, security-centric approach that tends to view information as a toxic liability." In addition to yielding a postive sentiment on the core characterstics of organic data channels, selecting an applicable framework for valuation may require several attempts with *exquisite assumptions and parameter selection.* Here's an example of a qualatative "first-take" of defining the charactersitcs of strategic asset. 
 
 # Example Checklist for Defining Characteristics of a Strategic Asset
 **as interpreted from Daniel Moody "Measuring the Value of Information: Asset Valuation Approach"**
 
-1) Does data service potential or future economic benefits ?
+1) Does data service potential or future economic benefits?
 
 - An asset must be expected to provide future services or economic benefits, either through its use (insight visualization, communication, etc) or sale (transaction with another organization).
   
-2) Does data give an organization more strategic-ability ?
+2) Does data give an organization more strategic-ability?
 
 - The organization must have the capacity to benefit from the asset and regulate access to it by others. When an organization possesses information, it can control access to and use of that asset, denying or regulating others' access.
   
